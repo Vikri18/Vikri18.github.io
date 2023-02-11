@@ -150,6 +150,7 @@ include_once 'functions.php';
 
     </footer>
     <!--end footer-->
+    <!--end footer-->
 
 
 
